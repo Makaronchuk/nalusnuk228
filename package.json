@@ -1,0 +1,24 @@
+{
+  "name": "nalusnuk228",
+  "version": "1.0.2",
+  "description": "nalusnuk228",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Makaronchuk/nalusnuk228.git"
+  },
+  "dependencies": {
+    "galetska222": "1.0.1",
+    "malesenka2580130": "1.0.2",
+    "leleka2580130": "1.0.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makaronchuk/nalusnuk228/issues"
+  },
+  "homepage": "https://github.com/Makaronchuk/nalusnuk228#readme"
+}
